@@ -24,7 +24,7 @@ Computer Science undergraduate specializing in Cloud Computing and Python Develo
 **2. AI Resume Analyzer **
 - Building a tool that analyzes resumes using Natural Language Processing to provide ATS compatibility score and improvement suggestions.
 - **Tech Stack:** Python, NLP, Streamlit
-
+Live Code: https://github.com/sharvari1905/AI_RESUME_ANALYZER
 **3. Secure ATM Authentication System**
 - Designed a prototype for secure ATM transactions using fingerprint-based biometric authentication to enhance security.
 - **Tech Stack:** Python, OpenCV, Biometric Security
@@ -32,7 +32,7 @@ Computer Science undergraduate specializing in Cloud Computing and Python Develo
 **4. Cloud-Based Expense Tracker**
 - Developed a system to track and visualize expenses with cloud storage capabilities.
 - **Tech Stack:** Python, SQL, AWS
-
+Live Code: https://github.com/sharvari1905/EXPENSE_TRACKER
 ### Education
 **Dr. Babasaheb Ambedkar Technological University (DBATU)** - B.Tech in CSE | 2024 - 2027
 
