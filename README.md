@@ -1,16 +1,43 @@
-## Hi there 👋
+# Sharvari Patil | Cloud & Python Developer
 
-<!--
-**sharvari1905/sharvari1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech Computer Science & Engineering @ DBATU | chandrapur, Maharashtra**
+**Portfolio:** https://sharvari1905.github.io/waves/ | **Email:** patilsharvari713@gmail.com | **LinkedIn:** linkedin.com/in/sharvari-patil | **GitHub:** github.com/sharvari1905
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Summary
+Computer Science undergraduate specializing in Cloud Computing and Python Development. Passionate about building scalable, cloud-native applications and deploying efficient solutions on AWS. Seeking Work-From-Home internship opportunities in Cloud Computing and Python Development.
+
+### Technical Skills
+- **Languages:** Python, HTML5, CSS3, JavaScript, SQL
+- **Cloud & DevOps:** AWS (S3, EC2 Basics, IAM), Git, GitHub, GitHub Pages
+- **Tools:** VS Code, MySQL, Figma
+- **Coursework:** Data Structures, OOPs, DBMS, Operating Systems, Cloud Fundamentals
+
+### Featured Projects
+
+**1. Waves - Live Portfolio Website | [Live Demo](https://sharvari1905.github.io/waves/)**
+- Developed and deployed a fully responsive portfolio website with optimized performance.
+- Implemented clean UI/UX and hosted on GitHub Pages with readiness for AWS S3 deployment.
+- **Tech Stack:** HTML5, CSS3, JavaScript, GitHub Pages
+
+**2. AI Resume Analyzer (In Progress)**
+- Building a tool that analyzes resumes using Natural Language Processing to provide ATS compatibility score and improvement suggestions.
+- **Tech Stack:** Python, NLP, Streamlit
+
+**3. Secure ATM Authentication System**
+- Designed a prototype for secure ATM transactions using fingerprint-based biometric authentication to enhance security.
+- **Tech Stack:** Python, OpenCV, Biometric Security
+
+**4. Cloud-Based Expense Tracker**
+- Developed a system to track and visualize expenses with cloud storage capabilities.
+- **Tech Stack:** Python, SQL, AWS
+
+### Education
+**Dr. Babasaheb Ambedkar Technological University (DBATU)** - B.Tech in CSE | 2024 - 2027
+
+### Availability
+Open for: Cloud Computing Internships (WFH), Python Development Internships, Freelance Web Development Projects.
+
+---
+Last Updated: August 2026
