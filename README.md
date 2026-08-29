@@ -21,7 +21,7 @@ Computer Science undergraduate specializing in Cloud Computing and Python Develo
 - Implemented clean UI/UX and hosted on GitHub Pages with readiness for AWS S3 deployment.
 - **Tech Stack:** HTML5, CSS3, JavaScript, GitHub Pages
 
-**2. AI Resume Analyzer (In Progress)**
+**2. AI Resume Analyzer **
 - Building a tool that analyzes resumes using Natural Language Processing to provide ATS compatibility score and improvement suggestions.
 - **Tech Stack:** Python, NLP, Streamlit
 
