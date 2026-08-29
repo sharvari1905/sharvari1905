@@ -1,4 +1,4 @@
-# Sharvari Patil | Cloud & Python Developer
+# Sharwari Patil | Cloud & Python Developer
 
 **B.Tech Computer Science & Engineering @ DBATU | chandrapur, Maharashtra**
 **Portfolio:** https://sharvari1905.github.io/waves/ | **Email:** patilsharvari713@gmail.com | **LinkedIn:** linkedin.com/in/sharvari-patil | **GitHub:** github.com/sharvari1905
